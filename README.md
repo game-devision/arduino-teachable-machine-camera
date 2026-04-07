@@ -6,6 +6,9 @@ This repo adapts the official [Teachable Machine community guide](https://github
 
 ---
 
+<img width="1853" height="1894" alt="image" src="https://github.com/user-attachments/assets/9e3a2171-d4b1-4cf6-9c9a-a413a37f9d07" />
+
+
 ## How it works
 
 ```
